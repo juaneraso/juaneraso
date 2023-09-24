@@ -42,7 +42,7 @@ Aquí hay algunos de los proyectos en los que he estado trabajando:
 - ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge)
 - ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-- ![C++](#00599C)
+- ![C++](https://simpleicons.org/icons/cplusplus.svg)
 
 ## Contáctame
 
