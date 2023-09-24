@@ -43,13 +43,18 @@ Aquí hay algunos de los proyectos en los que he estado trabajando:
 - ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 - [![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)](https://www.cplusplus.com/)
+- [![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)](https://www.arduino.cc/)
+- [![LoRaWAN](https://img.shields.io/badge/LoRaWAN-000000?logo=lorawan&style=for-the-badge)](https://www.lora-alliance.org/)
+- [![ThingSpeak](https://img.shields.io/badge/ThingSpeak-0081CC?logo=thingspeak&style=for-the-badge)](https://www.thingspeak.com/)
+- [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=for-the-badge)](https://firebase.google.com/)
+- [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge)](https://www.mathworks.com/products/matlab.html)
 
 
 ## Contáctame
 
-¡Me encantaría conectar contigo y hablar sobre tecnología, proyectos o cualquier otra cosa relacionada con el desarrollo backend y la ciberseguridad! Puedes encontrarme en:
+¡Me encantaría contactarme contigo y charlar sobre programacion web , inteligencia artificial y todo lo relacionado con electronica:
 
-- LinkedIn: [Valentín Francisco](https://www.linkedin.com/in/valentin-francisco-diaz-nieto-6b3892263/)
-- Correo electrónico: [nietovale75@gmail.com](mailto:nietovale75@gmail.com)
+- LinkedIn: [Juan Guillermo](https://www.linkedin.com/in/juan-guillermo-ing-electronico/)
+- Correo electrónico: [juangui9508@hotmail.com](mailto:juangui9508@hotmail.com)
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos. No dudes en seguirme para mantenerte actualizado sobre lo que estoy trabajando
