@@ -1,34 +1,37 @@
 # ¡Hola! 👋 Soy @Juan Guillermo
 
-[![GitHub Logo](https://img.shields.io/github/followers/NiettoVale?label=Sígueme%20en%20GitHub&style=social)](https://github.com/NiettoVale)
 
 <p align="justify">
-  ¡Bienvenido a mi perfil de GitHub! Soy un apasionado de la programación en el lado backend y la ciberseguridad. Siempre busco superarme y aprender más en el emocionante mundo de la tecnología.
+  ¡Bienvenido a mi perfil de GitHub! Soy un ingeniero electrónico y desarrollador de software con una amplia gama de habilidades técnicas que abarcan desde la electrónica hasta el desarrollo web. Mi pasión por la tecnología me ha llevado a adquirir un conjunto diverso de competencias que me permiten abordar proyectos complejos desde múltiples perspectivas
 </p>
 
 <p align="justify">
-  Mi viaje en el mundo de la tecnología comenzó cuando empecé a estudiar Ingeniería en Sistemas de Información y tuve mi primer acercamiento a la programación a través del lenguaje Python. A medida que avanzaba, mi interés por la programación se hizo más evidente, lo que me llevó a sumergirme por completo en este apasionante mundo. Fue entonces cuando me uní a Soy Henry para embarcarme en el aprendizaje del desarrollo web full stack.
+Como ingeniero electrónico, he trabajado en la creación y optimización de sistemas electrónicos, desde la concepción hasta la implementación. Mi capacidad para diseñar circuitos, programar microcontroladores y solucionar problemas en hardware me ha permitido llevar a cabo proyectos exitosos en áreas como la automatización industrial y la electrónica de consumo.
+Sin embargo, mi interés en la informática me llevó a adentrarme en el mundo del desarrollo de software. Como programador, tengo un sólido conocimiento de tecnologías clave como JavaScript, React.js, Node.js, Express, Redux, Sequelize y PostgreSQL. Estas herramientas me permiten crear aplicaciones web de alto rendimiento y robustas, con una experiencia de usuario excepcional.
 </p>
 
 <p align="justify">
-  Durante mi formación, descubrí que la parte del desarrollo backend era la que más me atraía. Aquí, encontré la oportunidad de fusionar mis habilidades en esta área con mi interés en la ciberseguridad, comprendiendo cómo ambas disciplinas se complementan y se pueden aprovechar de manera conjunta. Esta experiencia ha sido la base de mi camino en la tecnología y sigue impulsándome a explorar y aprender más en este emocionante campo.
+En resumen, mi combinación de habilidades como ingeniero electrónico y desarrollador de software me permite abordar proyectos de manera integral, desde la electrónica subyacente hasta la interfaz de usuario final. Estoy emocionado de aplicar mis conocimientos y experiencia para enfrentar nuevos desafíos y crear soluciones innovadoras en el mundo de la tecnología.
 </p>
 
 ## Sobre mí
 
 - 💡 Me encanta aprender nuevas tecnologías.
-- 🛡️ Tengo interés por la ciberseguridad y el desarrollo backend.
-- 🌐 Puedes encontrarme en [Valentín Francisco](https://www.linkedin.com/in/valentin-francisco-diaz-nieto-6b3892263/) para conectarte conmigo.
-- 🎵 En mis tiempos libres me gusta eschuchar música y ver series
+- 🛡️ Tengo interés por el desarrollo backend y frontend.
+- ☀️ Me encanta todo lo relacionado con energias renovables.
+- 🎵 En mis tiempos libres me gusta eschuchar música electronica y rock.
+- ⚽ Me gusta jugar futbol con amigos y familiares.
+- 🌐 Puedes encontrarme en [Juan Guillermo](https://www.linkedin.com/in/juan-guillermo-ing-electronico/) para conectarte conmigo.
 
 ## Mis Proyectos Destacados
 
 Aquí hay algunos de los proyectos en los que he estado trabajando:
 
-- [GameVerse: Explora, crea y conquista.](https://github.com/NiettoVale/Proyecto-Videogame): Este proyecto fue desarrollado durante mi etapa en el bootcamp de Soy Henry. GameVerse es una aplicación de una sola página (SPA) que te permite explorar una variedad de videojuegos, crear tus propios títulos y realizar acciones como edición y eliminación. Además, proporciona detalles exhaustivos sobre cada juego en particular, brindando una experiencia completa de juego.
+- [Pokemon: Atraparlos ya!](https://github.com/juaneraso/POKEMONPROYECTO): Este proyecto se realizo para practicar los conocimienots que he adquirido en estos ultimos meses, puedes buscar tu pokemon favorito , mirar sus estadisticas. Tambien puedes crear tu propio pokemon. 
 
-- [Rick y Morty](https://github.com/NiettoVale/Proyecto-Rick-and-Morty): Durante mi participación en el bootcamp de Soy Henry, desarrolle esta aplicación web.
-Rick y Morty es una plataforma que hace uso de la API oficial de la serie para ofrecer información detallada sobre los personajes que aparecen en la misma. Los usuarios tienen la capacidad de buscar personajes, explorar sus detalles, aplicar filtros de búsqueda y guardar sus personajes favoritos para una experiencia personalizada..
+- [Rick y Morty](https://github.com/juaneraso/rick_and_morty_mine): En el tiempo de formacion en el bootcamp de Henry , cada dia que aprendias un conocimiento nuevo , este era aplicado a este proyecto, es un proyecto sencillo , pero me permitio adquirir y practicar todos los conocimientos que poseo actualmente.
+
+- [Espacio Flipante](https://espacio-flipante-pf.vercel.app/): Al finalizar la etapa de bootcamp , conoci a un grupo de personas muy valiosas , con este grupo realizamos este proyecto , el cual es nuestra bandera , ya que nos permitio aplicar todo lo aprendido y aportar mucho mas de cada uno de nosotros.
 
 ## Tecnologías que actualmente manejo:
 
@@ -39,6 +42,7 @@ Rick y Morty es una plataforma que hace uso de la API oficial de la serie para o
 - ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge)
 - ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+- ![C++](#00599C)
 
 ## Contáctame
 
